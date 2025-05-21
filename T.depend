@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1747803272 source:d:\degree\sem 5\tcg\c\t\battleground.cpp
+	"BattleGround.hpp"
+	<GL/glut.h>
+	<GL/glu.h>
+
+1747803266 d:\degree\sem 5\tcg\c\t\battleground.hpp
+
+1747802893 source:d:\degree\sem 5\tcg\c\t\main.cpp
+	<GL/glut.h>
+	"BattleGround.hpp"
+
+1747806458 source:c:\users\quan\downloads\battleground\c\t\battleground.cpp
+	"BattleGround.hpp"
+	<GL/glut.h>
+	<cmath>
+
+1747805921 c:\users\quan\downloads\battleground\c\t\battleground.hpp
+
+1747805921 source:c:\users\quan\downloads\battleground\c\t\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<algorithm>
+	"BattleGround.hpp"
+
